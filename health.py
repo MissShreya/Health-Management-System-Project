@@ -1,3 +1,9 @@
+"""
+This is a HEALTH MANAGEMENT SYSTEM project.
+In this project:-
+1. client_list is given {1:"SHREYANSHI",2:"ANURAG",3:"AYUSHI",4:"ABHINAV",5:"AWNI",6:"SHASHANK"} and when executed program  u
+takes as input client name after input client name  u locked ur daily routine exercise and food and print the locked result with current locking time
+"""
 client_list={1:"SHREYANSHI",2:"ANURAG",3:"AYUSHI",4:"ABHINAV",5:"AWNI",6:"SHASHANK"}
 log_list={1:"Exercise",2:"Diet"}
 def getdate():
