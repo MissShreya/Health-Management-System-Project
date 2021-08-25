@@ -1,1 +1,14 @@
+HEALTH MANAGEMENT PROJECT
+HELP:-
+Starting this program will ask you to choose any client name from given list.After input client name as a integer form ,you will have two option :-
+1.Log
+2.Retrieve
+You can select the option ,u want
+if u select the option 1st; again u will have two option
+1.Log food
+2.Log exercise
+if u choose option 2nd ,you will have two option
+1.Retreive food
+2.Retreive exercise
+BEST OF LUCK FOR THE NEXT STEP
 
