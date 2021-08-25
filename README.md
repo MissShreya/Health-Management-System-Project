@@ -1,2 +1,0 @@
-# ss-project
-just fun
